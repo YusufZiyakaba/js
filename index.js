@@ -1,1 +1,2 @@
 const arr = [];
+const numbers = [];
